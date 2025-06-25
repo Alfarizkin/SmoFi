@@ -40,3 +40,12 @@
 
 ---
 
+📸 Screenshot Tampilan Website
+
+![register_page](https://github.com/user-attachments/assets/37318707-661d-4019-85ca-d5d7c2fd6313)
+![login_page](https://github.com/user-attachments/assets/8f1ce761-c42c-4706-9f85-553ab0e247fb)
+![door_lock_unlock_page](https://github.com/user-attachments/assets/d6397f6c-b689-4091-95bd-1dbc092b1b3a)
+![enroll_fingerprint_page](https://github.com/user-attachments/assets/e6c4c15d-9a27-4ea4-817c-667424a9c0d1)
+![log_access_page](https://github.com/user-attachments/assets/4decfef1-8bd5-4fb6-825f-462cca110433)
+![smoke_monitoring_page](https://github.com/user-attachments/assets/7aa3fa75-a090-42cf-bb21-f152ddb5a116)
+![user_list_page](https://github.com/user-attachments/assets/da83876c-03f1-4fa4-89c5-b80034f8db1c)
