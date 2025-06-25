@@ -49,16 +49,16 @@
    ![login_page](https://github.com/user-attachments/assets/8f1ce761-c42c-4706-9f85-553ab0e247fb)
 
 3. 🚪 Door Lock / Unlock Control  
-   ![door_lock_unlock_page](https://github.com/user-attachments/assets/d6397f6c-b689-4091-95bd-1dbc092b1b3a)
+   ![door_lock_unlock_page](https://github.com/user-attachments/assets/9f05beb0-6f3a-4cfd-8497-9805854ed59f)
 
 4. ✋ Enroll Fingerprint Page  
-   ![enroll_fingerprint_page](https://github.com/user-attachments/assets/e6c4c15d-9a27-4ea4-817c-667424a9c0d1)
+   ![enroll_fingerprint_page](https://github.com/user-attachments/assets/4c501d74-9dc5-4bff-93fb-2c6153f799c5)
 
 5. 📑 Log Akses Pintu  
    ![log_access_page](https://github.com/user-attachments/assets/4decfef1-8bd5-4fb6-825f-462cca110433)
 
 6. 🔥 Smoke Monitoring Page  
-   ![smoke_monitoring_page](https://github.com/user-attachments/assets/7aa3fa75-a090-42cf-bb21-f152ddb5a116)
+   ![smoke_monitoring_page](https://github.com/user-attachments/assets/feb39e3f-a5d1-4244-acd4-ef781d9baa86)
 
 7. 👤 User List Page  
    ![user_list_page](https://github.com/user-attachments/assets/da83876c-03f1-4fa4-89c5-b80034f8db1c)
