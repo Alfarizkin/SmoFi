@@ -64,3 +64,17 @@
    ![user_list_page](https://github.com/user-attachments/assets/da83876c-03f1-4fa4-89c5-b80034f8db1c)
 
 ---
+
+---
+
+## Kontributor
+
+| Nama                          | NIM         | Peran & Kontribusi                                                                 |
+|-------------------------------|-------------|-------------------------------------------------------------------------------------|
+| **Itsar Hevara**              | 2207421046  | Perancangan sistem secara keseluruhan dan integrasi modul                         |
+| **Devina Anggraini**          | 2207421033  | Pengembangan antarmuka frontend (UI dashboard & halaman pengguna)                 |
+| **Alfarizki Nurachman**       | 2207421041  | Pengembangan frontend log fingerprint, serta backend website termasuk integrasi WebSocket |
+| **Abdurrahman Ammar Ihsan**   | 2207421047  | Implementasi IoT Smart Door Lock (ESP32 & Solenoid Lock)                          |
+| **Izzaturrachmi**             | 2207421050  | Penanganan aspek keamanan sistem (akses admin, validasi, otorisasi)               |
+| **Jonathan Victorian Wijaya** | 2207421051  | Implementasi IoT Smoke Detector (sensor MQ-2)                             |
+
